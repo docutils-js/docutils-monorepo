@@ -10,3 +10,6 @@
 [submodule "sphinx"]
 	path = sphinx
 	url = git@github.com:kaymccormick/sphinx.git
+[submodule "Docusaurus"]
+	path = Docusaurus
+	url = git@github.com:kaymccormick/Docusaurus.git

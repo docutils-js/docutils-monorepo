@@ -13,7 +13,6 @@ MAXDEBUG = 10
 debug = MAXDEBUG
 mainout = open('out.txt', 'w')
 
-
 class MiscVisitor(ast.NodeVisitor):
     def __init__(self):
         self.nodes_name = []
