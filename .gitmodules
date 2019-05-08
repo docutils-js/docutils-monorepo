@@ -13,3 +13,6 @@
 [submodule "Docusaurus"]
 	path = Docusaurus
 	url = git@github.com:kaymccormick/Docusaurus.git
+[submodule "xmljs"]
+	path = xmljs
+	url = git@github.com:kaymccormick/xmljs.git
