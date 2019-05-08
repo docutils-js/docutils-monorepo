@@ -1,0 +1,12 @@
+[submodule "docutils-react"]
+	path = docutils-react
+	url = git@github.com:kaymccormick/docutils-react.git
+[submodule "docutils-js"]
+	path = docutils-js
+	url = git@github.com:kaymccormick/docutils-js.git
+[submodule "docserve"]
+	path = docserve
+	url = git@github.com:kaymccormick/docserve.git
+[submodule "sphinx"]
+	path = sphinx
+	url = git@github.com:kaymccormick/sphinx.git
